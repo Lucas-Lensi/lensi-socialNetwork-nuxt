@@ -1,6 +1,6 @@
 {
   "name": "social-nuxt",
-  "version": "2.15.6  ",
+  "version": "2.15.6",
   "private": true,
   "scripts": {
     "dev": "nuxt",
