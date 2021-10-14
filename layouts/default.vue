@@ -1,6 +1,6 @@
 <template>
     <div>
-        <navBar v-if="!this.noNavPages.includes(this.$route.path)"></navBar>
+        <!-- <navBar v-if="!this.noNavPages.includes(this.$route.path)"></navBar> -->
         <Nuxt />
     </div>
 </template>
