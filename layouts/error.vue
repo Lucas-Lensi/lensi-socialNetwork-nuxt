@@ -1,6 +1,6 @@
 <template>
     <div class="primary-color-3">
-        <b-container fluid>
+        <!-- <b-container fluid>
             <b-row v-if="error.statusCode === 404">
                 <b-col lg="10" offset-lg="1" class="pt-5" style="text-align: center">
                     <h1>Erreur {{error.statusCode}}</h1>
@@ -25,7 +25,7 @@
                     <h4 class="mt-5"><i>Une erreur système est survenue.</i></h4>
                 </b-col>
             </b-row>
-        </b-container>
+        </b-container> -->
     </div>
 </template>
 
